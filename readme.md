@@ -1,5 +1,5 @@
 # PageRank Algorithm  
-
+![Mi proyecto](assets/PageRank.jpeg)
 ## Description  
 
 This script calculates the PageRank of nodes in a directed graph, which is a ranking algorithm originally developed for web page ranking. The script processes input graph data, applies iterative calculations, and outputs the ranks of each node based on their relative importance.  
